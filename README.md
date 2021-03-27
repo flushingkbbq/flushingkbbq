@@ -1,4 +1,4 @@
-#Hello Wolrd, I'm Ten
+# Hello World, I'm Ten
 
 - 👋 Hi, I’m @flushingkbbq
 - 🌱 I’m currently learning Data Structures and Algorithms.
