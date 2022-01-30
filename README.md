@@ -1,8 +1,7 @@
 # Hello World, I'm Ten
 
 - 👋 Hi, I’m @flushingkbbq
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👶 I'm novice to DSA :)
+- 🌱 I’m currently learning DSA, Software Engineering, Database.
 
 <!---
 flushingkbbq/flushingkbbq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
