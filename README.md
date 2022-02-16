@@ -1,4 +1,4 @@
-# Hello World, I'm Ten
+# Hello World, I'm Tenn
 
 - 👋 Hi, I’m @flushingkbbq
 - 🌱 I’m currently learning Software Engineering.
