@@ -1,6 +1,6 @@
 # Hello World
 
-- 👋 Hi, I’m @flushingkbbq
+- 👋 Hi, I’m @tenn2020
 - 🌱 I’m currently learning Software Engineering.
 
 <!---
