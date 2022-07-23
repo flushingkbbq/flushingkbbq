@@ -1,6 +1,6 @@
 # Hello World
 
-- 👋 Hi, I’m @tenn2080
+- 👋 Hi, I’m TENN
 - 🌱 I’m currently learning Software Engineering.
 
 <!---
