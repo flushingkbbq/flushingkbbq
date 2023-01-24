@@ -1,6 +1,5 @@
-# Hello World
+# Hello World 👋
 
-- 👋 Hi, I’m TENN
 - 🌱 I’m currently learning Software Engineering.
 
 <!---
