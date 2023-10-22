@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **tysonha75@gmail.com**
 
+- ⚡ Fun fact **I Like Afrobeats, Kpop, Jpop, Bollywood movies & songs**
+
 <!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
