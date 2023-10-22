@@ -15,8 +15,6 @@
 
 - 💬 Ask me about: **Java, Data Structures, Mobile App Development**
 
-- ⚡ Fun fact: **I Like Afrobeats, Kpop, Jpop, Bollywood movies & songs**
-
 <!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
