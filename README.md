@@ -9,13 +9,13 @@
 <img align=“left” alt=“Coding” width=“200” src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 --->
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning: **Software Development**
 
-- 💬 Ask me about **Java, Data Structures, Mobile App Development**
+- 💬 Ask me about: **Java, Data Structures, Mobile App Development**
 
-- 📫 How to reach me **tysonha75@gmail.com**
+- 📫 Contact me at: **tysonha75@gmail.com**
 
-- ⚡ Fun fact **I Like Afrobeats, Kpop, Jpop, Bollywood movies & songs**
+- ⚡ Fun fact: **I Like Afrobeats, Kpop, Jpop, Bollywood movies & songs**
 
 <!---
 <h3 align="left">Connect with me:</h3>
