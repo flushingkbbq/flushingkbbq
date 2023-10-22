@@ -1,9 +1,9 @@
-[![MasterHead](https://www.seguetech.com/wp-content/uploads/2022/04/segue-blog-TheLifeOfASoftwareEngineer.png)]
+[![MasterHead](https://www.seguetech.com/wp-content/uploads/2022/04/segue-blog-TheLifeOfASoftwareEngineer.png)]()
 
 <h1 align="center">Hi 👋, I'm Tyson</h1>
 <h3 align="center">An aspiring Software Engineer from New York City, USA</h3>
 
-<img align=“right” alt=“Coding” width=“400” src=“https://media.tenor.com/ITc1hNBSH_wAAAAC/coding-typing.gif”>
+<img align=“right” alt=“Coding” width=“500” src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 - 🌱 I’m currently learning **Software Development**
 
